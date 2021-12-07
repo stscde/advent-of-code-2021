@@ -3,6 +3,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
+/**
+ * Advent of Code 2021/12/02 Part 1
+ */
 public class AOC202102 {
 
 	public static void main(String[] args) throws IOException {

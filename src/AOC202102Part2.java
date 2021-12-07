@@ -3,7 +3,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
+/**
+ * Advent of Code 2021/12/02 Part 2
+ */
 public class AOC202102Part2 {
+
+	// Hints:
 	// down X increases your aim by X units.
 	// up X decreases your aim by X units.
 	// forward X does two things:

@@ -13,13 +13,13 @@ import java.util.Set;
  * Completed after a short break for log4shell<br>
  * For me the heaviest task so far
  */
-public class AOC202108_Part2 {
+public class AOC202108Part2 {
 
 	public static void main(String[] args) throws IOException {
 
 		// read input
 		List<String[][]> lines = new ArrayList<String[][]>();
-		BufferedReader br = new BufferedReader(new InputStreamReader(AOC202108_Part2.class.getResourceAsStream("AOC202108_input.txt")));
+		BufferedReader br = new BufferedReader(new InputStreamReader(AOC202108Part2.class.getResourceAsStream("AOC202108_input.txt")));
 
 		String line = null;
 		while ((line = br.readLine()) != null) {

@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 
 
 /**
- * Advent of Code 2021/12/12 Part 2<br>
+ * Advent of Code 2021/12/12 Part 2
  */
 public class AOC202112Part2 {
 

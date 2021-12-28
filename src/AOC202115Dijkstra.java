@@ -23,6 +23,10 @@ public class AOC202115Dijkstra {
 			open.remove(curr);
 			done.add(curr);
 
+			if (open.size() % 100 == 0) {
+				System.out.println("nodes left: " + open.size());
+			}
+
 			for (Node neigh : curr.neighbourDistance.keySet()) {
 
 				if (done.contains(neigh)) {

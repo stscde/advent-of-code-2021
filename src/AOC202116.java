@@ -6,7 +6,7 @@ import java.util.List;
 
 
 /**
- * Advent of Code 2021/12/16 Part 2
+ * Advent of Code 2021/12/16 Part 1
  */
 public class AOC202116 {
 
